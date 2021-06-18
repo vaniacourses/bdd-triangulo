@@ -1,1 +1,3 @@
-# bdd-triangulo
+# Exercício
+
+Escreva cenários e casos de testes usando BDD para testar a classe Triangulo. Essa classe possui métodos que verifica se três números inteiros formam um triângulo. Em caso positivo, retorna se o triângulo é isósceles, escaleno ou equilátero.
